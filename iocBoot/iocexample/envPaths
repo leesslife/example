@@ -1,0 +1,3 @@
+epicsEnvSet("IOC","iocexample")
+epicsEnvSet("TOP","/home/htse020_tm02/learning_example")
+epicsEnvSet("EPICS_BASE","/usr/local/EPICS_SUPPORTS/base-3.16.1")
